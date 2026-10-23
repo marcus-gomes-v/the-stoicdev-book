@@ -2,21 +2,30 @@
 
 ## The StoicDev Journey
 
-In the ever-evolving realm of technology, where the only constant is change, the ancient wisdom of Stoicism emerges as a guiding light, offering solace and strength to modern developers. This book, "A Daily Thought of a StoicDev," is a testament to the enduring power of Stoic principles in navigating the unique challenges of the IT world.
+I have spent more than ten years in software. I started as a junior developer, became a CTO, led a company and sold it. Most of what I learned along the way was technical. Some of the most useful parts were not.
 
-My journey in the vast landscape of information technology, spanning over a decade, has been a trek of continuous learning, resilience, and introspection. From the humble beginnings as a junior developer to the pinnacle of becoming a CTO and successfully leading and selling a company, each step was a blend of technical skill and philosophical insight. Among the various schools of thought that I encountered, Stoicism stood out as a beacon, offering clarity and peace amidst the turbulence of technological advancements and corporate dynamics.
+Somewhere in those years I started reading the Stoics. Technology kept changing under my feet, teams grew, the company got more complicated, and Marcus Aurelius, Epictetus and Seneca kept making sense. They wrote two thousand years ago, for people with much bigger problems than a failed deploy, and still they describe a bad week at work better than most management books.
 
-Stoicism, a philosophy that dates back to ancient Greece and Rome, teaches the value of self-control, courage, justice, and wisdom. It's not just about enduring hardship but embracing it as an opportunity for growth. In the fast-paced world of software development, where deadlines loom, technologies change, and teamwork is pivotal, these virtues become more than philosophical concepts – they transform into practical tools for personal and professional development.
+Stoicism comes down to a few things: self-control, courage, fairness and good judgment, and the habit of asking what is actually up to you. That question holds up surprisingly well in a code review, in a hard one-on-one, or when a deadline you didn't choose lands on your desk.
 
-In this book, you will find a collection of daily thoughts, each a fusion of Stoic wisdom and real-world IT scenarios. It is designed not just as a book but as a companion for reflection and growth. Whether you are debugging a complex code at midnight, leading a team through a challenging project, or navigating the highs and lows of your career, these pages offer insights and exercises to keep your mind focused and at peace.
+This book has one page for every day of the year. Each page starts with a short passage from a Stoic writer, followed by a few paragraphs on what it can mean for people who build software. My own experience is in there, mixed with theirs. Read one page in the morning, before the first meeting. Some days it will hit, some days it won't. Come back tomorrow anyway.
 
-My personal experiences, coupled with the timeless teachings of Stoic philosophers like Marcus Aurelius, Epictetus, and Seneca, are woven into each page. You will find stories of resilience in the face of coding challenges, the calmness in critical system failures, and the joy of problem-solving and innovation.
+Welcome. I hope some of these pages help you the way they helped me.
 
-As you embark on this 365-day journey with "A Daily Thought of a StoicDev," my hope is that you will discover, as I did, that the principles of Stoicism are not just abstract ideas but practical tools. Tools that can help you maintain equilibrium in the face of stress, approach your work with a balanced perspective, and ultimately lead a fulfilling and successful career in the dynamic field of technology.
+## About the translations
 
-Welcome to a year of growth, reflection, and Stoic wisdom, tailored for the modern developer.
+The Stoics wrote in Greek and Latin. Every passage in this book comes from a translation in the public domain, or was translated for this book from the original:
 
+- Marcus Aurelius, *Meditations*: George Long (1862).
+- Epictetus, *Discourses* and *Enchiridion*: W. A. Oldfather (1925–1928).
+- Seneca, *On the Shortness of Life*, *On Tranquility of Mind*, *To Helvia* and his other dialogues: Aubrey Stewart (1889–1900).
+- Seneca, tragedies: Frank Justus Miller (1907 and 1917).
+- Diogenes Laertius, *Lives of the Eminent Philosophers* (Zeno, Chrysippus, Diogenes, Heraclitus): R. D. Hicks (1925).
+- Plutarch, *Cato the Younger*: Bernadotte Perrin (1919). *Of Common Conceptions, against the Stoics*: from *Plutarch's Morals*, edited by William W. Goodwin (1870).
+- Seneca, *Moral Letters*, and Musonius Rufus, *Lectures*: new translations made for this book from the Latin and the Greek.
+
+The older translations keep their original wording, including the occasional "thee" and "thou". References follow the standard numbering of each work, so every passage can be found in any edition.
 
 ---
 
-This book combines ancient Stoic wisdom with modern software development practices, offering daily reflections to help you become a more mindful, focused, and resilient developer.
+*One Stoic thought a day, for the people who build software.*

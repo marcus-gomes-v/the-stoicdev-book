@@ -311,6 +311,7 @@ book/
 27. [FIND HUMOR IN CHALLENGES](./book/08_August/27.md)
 28. [LUXURY WITHOUT DEPENDENCE](./book/08_August/28.md)
 29. [TRUE WEALTH IS DESIRING LESS](./book/08_August/29.md)
+30. [ALIGN YOUR EFFORTS WITH PURPOSE](./book/08_August/30.md)
 31. [EXTEND THE GRACE YOU GIVE YOURSELF](./book/08_August/31.md)
 
 ### 09 - September
@@ -475,6 +476,8 @@ This book is shared freely with the developer community. If you find value in th
 ## 📜 License
 
 This work is shared with the intention of helping developers worldwide. Please use it wisely and share it freely.
+
+The Stoic passages come from public-domain translations (George Long, W. A. Oldfather, Aubrey Stewart, Frank Justus Miller, R. D. Hicks, Bernadotte Perrin) or were newly translated for this book from the Latin and Greek. See [About the translations](./book/00_Prologue/Introduction.md#about-the-translations).
 
 ---
 

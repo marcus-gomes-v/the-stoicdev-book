@@ -483,9 +483,9 @@ The Stoic passages come from public-domain translations (George Long, W. A. Oldf
 
 ## 💭 Final Thought
 
-> *"The impediment to action advances action. What stands in the way becomes the way."*
+> *"The mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road."*
 >
-> — Marcus Aurelius
+> — Marcus Aurelius, *Meditations* 5.20 (translated by George Long)
 
 Every bug, every failed deployment, every difficult conversation—these are not obstacles to your growth as a developer, but the very path itself. May this book guide you in transforming challenges into wisdom.
 

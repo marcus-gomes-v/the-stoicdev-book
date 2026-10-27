@@ -9,7 +9,7 @@
 The whole book is free to read here.
 
 - **Today's thought:** [stoic-developer.com](https://www.stoic-developer.com)
-- **The book on Amazon:** [Paperback](https://www.amazon.com/dp/B0HP8GRVM7) · [Kindle](https://www.amazon.com/s?k=A+Daily+Thought+of+a+StoicDev+Marcus+Gomes&i=digital-text)
+- **The book on Amazon:** [Paperback](https://www.amazon.com/dp/B0HP8GRVM7) · [Kindle](https://www.amazon.com/dp/B0HP8HPFGW)
 - **Follow:** [YouTube](https://www.youtube.com/@stoic-developer) · [LinkedIn](https://www.linkedin.com/company/stoic-developer) · [X](https://x.com/StoicDevelop)
 
 <br clear="right">
